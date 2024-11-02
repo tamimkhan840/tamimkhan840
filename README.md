@@ -1,6 +1,6 @@
 
-👋 Hi, I’m Tamim khan
 
+-👋 Hi, I’m Tamim khan
 -👑 I am Web Developer
 - 👀 I’m interested in learning coding, especially in web development.
 - 🌱 I’m currently learning web development.
