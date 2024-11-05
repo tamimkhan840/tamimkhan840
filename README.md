@@ -15,13 +15,13 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **wasabbirahmed@gmail.com**
+- 📫 How to reach me **hmdtamimkhan@gmail.com**
 
 - ⚡ Fun fact **i love to fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/w-a-sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="w-a-sabbirahmed" height="30" width="40" /></a>
+<a href="https://codepen.io/tamimkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="w-a-sabbirahmed" height="30" width="40" /></a>
 <a href="https://dev.to/w-a-sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="w-a-sabbirahmed" height="30" width="40" /></a>
 <a href="https://twitter.com/w-a-sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w-a-sabbirahmed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wasabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasabbirahmed" height="30" width="40" /></a>
