@@ -1,4 +1,4 @@
-![logo](https://github.com/w-a-sabbirahmed/w-a-sabbirahmed/blob/main/WhatsApp%20Image%202024-10-31%20at%2001.21.17_7a6f4b23.jpg)
+![logo](https://github.com/tamimkhan840/tamimkhan840/blob/main/WhatsApp%20Image%202024-11-05%20at%2023.16.17_fed419f1.jpg)
 <h1 align="center">Assalamualaikum 👋, I'm Tamim Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
